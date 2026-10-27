@@ -52,7 +52,7 @@
     "terser-webpack-plugin": "^5",
     "webpack": "^5",
     "webpack-cli": "^4",
-    "webpack-dev-server": "^3"
+    "webpack-dev-server": "^4.15.2"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --mode production --env prod",
